@@ -104,6 +104,10 @@ AutoPolicy is designed with scalability in mind. Here are some possible enhancem
 
 - 📨 **Notification & Alerts**  
   SMS/email alerts for claim status updates using **Twilio**, **Firebase Cloud Messaging**, or **SendGrid**.
+---
+## 📝 License
+This project is licensed under the [MIT License](./LICENSE)
+
 
 
 
